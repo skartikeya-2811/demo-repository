@@ -1,4 +1,4 @@
 # demo-repository
 This is my first Git Repository.
 <br>
-Author - KARTIKEYA SHARMA
+Author - KARTIKEYA SHARMA (analyst)
